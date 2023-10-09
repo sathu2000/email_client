@@ -1,1 +1,5 @@
 Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,sunil,sunil@gmail.com,2000/10/10
+Personal: sathurgini,sathu,susathu2000@gmail.com,2000/10/10
+Official: john,john99@gmail.com,developer
